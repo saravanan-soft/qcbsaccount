@@ -12,17 +12,9 @@ import com.ulisesbocchio.jasyptspringboot.annotation.EnableEncryptableProperties
 @EnableEncryptableProperties
 public class QcbsTransactionApplication {
 	
-	
-	public static void main(Integer[] args) {
-		SpringApplication.run(QcbsTransactionApplication.class, args);
-	}
-	
-	public static void main(Integer[] args) {
-		SpringApplication.run(QcbsTransactionApplication.class, args);
-	}
-	public static void main(Integer[] args) {
-		SpringApplication.run(QcbsTransactionApplication.class, args);
-	}
+   public void Test() {
+	   
+   }
 
 	public static void main(String[] args) {
 		SpringApplication.run(QcbsTransactionApplication.class, args);
