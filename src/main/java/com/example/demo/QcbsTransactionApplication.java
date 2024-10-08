@@ -18,6 +18,13 @@ public class QcbsTransactionApplication {
 	public static void main(Integer[] args) {
 		SpringApplication.run(QcbsTransactionApplication.class, args);
 	}
+	
+	public static void main(Integer[] args) {
+		SpringApplication.run(QcbsTransactionApplication.class, args);
+	}
+	public static void main(Integer[] args) {
+		SpringApplication.run(QcbsTransactionApplication.class, args);
+	}
 
 	public static void main(String[] args) {
 		SpringApplication.run(QcbsTransactionApplication.class, args);
